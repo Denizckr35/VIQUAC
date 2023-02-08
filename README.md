@@ -33,7 +33,7 @@ Must Run VIQUAC-V3.0.py
     2.1. On the window, Brightness, Red Area Ratio, and Contrast Scale Bars will be shown respectively.    
     2.2. Please select the correct ratios by hand while looking.   
     2.3. When you scan Fibers with red, please press the "Escape" button to Close the window. Otherwise, OpenCV will Crash.   
-    If you have an image already saved by VIQUAC it will pop-up a window that tells you to make a new determination or continue with saved file.
+    If you have an image already saved by VIQUAC, it will pop-up a window that tells you to make a new determination or continue with saved file.
 3.  Select the Calculator Button to start the calculation process:    
   -After selecting the button, the pop-up window will show itself.    
   -Select Fiber and Resin Type For your application and predict the mechanical behavior.    
