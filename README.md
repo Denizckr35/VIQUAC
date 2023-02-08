@@ -22,6 +22,8 @@ Were used in VIQUAC.
   Turn the outputs to Excel File.
 ## Run  
 
+Must Run VIQUAC-V3.0.py
+
 1.  User must input an image to GUI by selecting the Browse File Button.  
 2.  To determine Volume Fraction(Vf), the user must select the Volume Fraction Button:    
     -After selecting the Vf button, the OpenCV window will occur.   
