@@ -28,6 +28,9 @@ Were used in VIQUAC.
     
     2.1.On the window, Brightness, Red Area Ratio and Contrast Scale Bars will shown respectievly.    
     2.2.Please select the correct ratios by hand while looking.   
-    2.3.When you select Fibers, please press Escape button to Close window. Otherwise, OpenCV will Crash.
+    2.3.When you select Fibers, please press Escape button to Close window. Otherwise, OpenCV will Crash.   
     If you have an image already saved by VIQUAC it will pop-up a windows that tells you to make new determination.
-   
+3.  Select Calculator Button to start calculation process.    
+  -After selecting the button, pop-up window will show itself.    
+  -Select Fiber and Resin Type For your application and predict the mechanical behavior.    
+  -If you decided which kinds of fiber and resin that will use, please select confirm button.
