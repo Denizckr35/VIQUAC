@@ -1,6 +1,6 @@
 # VIQUAC
 
-Virtual Quality Assessment for Composites (VIQUAC) is a software that determines the volume fraction of fiber or resin 
+Virtual Quality Assessment for Composites (VIQUAC) is a open-source software that determines the volume fraction of fiber or resin 
 and calculates the mechanical behavior of the material by Classical Lamination Theory (CLT).
 
 
