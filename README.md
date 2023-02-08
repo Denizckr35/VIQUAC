@@ -18,6 +18,8 @@ Were used in VIQUAC.
 
 ## Basic Methodology
   Using the image processing methods to predict quality assessment of composite materials and predict the mechanical behavior according to Classical Lamination Theory(CLT).
+  Takes Values from Sqlite3 material database to code and execute calculations.
+  Turn the outputs to Excel File.
 ## Run  
 
 1.  User must input an image to GUI by selecting the Browse File Button.  
@@ -35,6 +37,7 @@ Were used in VIQUAC.
   -Select Fiber and Resin Type For your application and predict the mechanical behavior.    
   -If you decided which kinds of fiber and resin you will use, please select confirm button.
 4. All the process is finsihed. Files are saved in "Save_File" with their own names.
+
 
 ## Additional Plugins
 
