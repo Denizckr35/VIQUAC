@@ -36,3 +36,14 @@ Were used in VIQUAC.
   -If you decided which kinds of fiber and resin you will use, please select confirm button.
 4. All the process is finsihed. Files are saved in "Save_File" with their own names.
 
+## Additional Plugins
+
+I am developing additional plugins for the VIQUAC which is essential need for the material testing methods like Digital Image Correlation and some AI applications.
+
+There are 2 uncompleted functions which i am working on it.
+
+  -Directionality:The Goal is to determine the angles for the laminated composites to find parameters for the laminated composite calculations.   
+  -Methodology: It uses OpenCV’s Contour and FloodFill algorithms to determine the regions of materials to assign numbers to these areas. The user must erase the contact points with drawing tools from VIQUAC itself to avoid false calculation results.    
+  
+  -DIC: Digital Image Correlation for Test applications (Tensile Test and Bending).
+  
